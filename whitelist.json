@@ -10,6 +10,11 @@
   "secret": "1234"
   },
   {
+  "username": "apple123",
+  "password": "apple123",
+  "secret": "apple123"
+  },
+  {
   "username": "simonas",
   "password": "niggeris",
   "secret": "niggeris"
